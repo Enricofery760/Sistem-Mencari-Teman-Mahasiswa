@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NmpSeleraku</string>
+
+    <string name="nrp">NRP %1$s</string>
+    <string name="program">Program %1$s</string>
+
+    <string name="about_me">About Me</string>
+    <string name="my_course">My Course</string>
+    <string name="my_experiences">My Experiences</string>
+
+    <string name="mahasiswa_nama">Nama Mahasiswa</string>
+    <string name="mahasiswa_nrp">NRP Mahasiswa</string>
+    <string name="mahasiswa_program">Program Mahasiswa</string>
+    <string name="mahasiswa_deskripsi">Deskripsi mahasiswa</string>
+
+    <string name="btn_request">Request Friend</string>
+</resources>
